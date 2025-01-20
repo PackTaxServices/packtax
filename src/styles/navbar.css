@@ -1,0 +1,31 @@
+.navbar .navbar-brand {
+  font-weight: bold;
+  margin-right: auto;
+}
+
+.navbar-nav .nav-link {
+  font-size: 1.2rem; 
+  margin: 0 20px; 
+  letter-spacing: 0.1rem; /* Slight spacing between letters */
+  text-decoration: none; /* Remove default underline */
+  color: white; /* Ensure text color is visible */
+  transition: color 1s ease, text-decoration 1s ease;
+}
+
+/* Hover Effect */
+.navbar-nav .nav-link:hover {
+  text-decoration: underline; /* Add underline on hover */
+  text-decoration-thickness: 3px; /* Make underline bolder */
+  text-underline-offset: 4px; /* Move underline further down */
+}
+
+/* Active Page Link */
+.navbar-nav .nav-link.active {
+  text-decoration: underline; /* Persistent underline for active page */
+  text-decoration-thickness: 3px; /* Make underline bolder */
+  text-underline-offset: 4px; /* Move underline further down */
+}
+
+.navbar-collapse {
+  background-color: #1f2326;
+}

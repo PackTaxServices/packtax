@@ -1,0 +1,23 @@
+.btn-custom {
+  background-color: #00366f; 
+  color: white;             
+  border: none;             
+}
+
+.btn-custom:hover {
+  background-color: #004c9d; 
+  color: white; 
+}
+
+.container-contact {
+  padding-top: 1rem;
+}
+
+.text-contact {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.spacing-cm-bottom {
+  padding-bottom: 4rem;
+}

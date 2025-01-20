@@ -1,0 +1,44 @@
+.custom-card-about {
+  background-color: #00366f;
+  color: white;            
+}
+
+.about-button {
+  display: inline-block;
+  background-color: #00366f; 
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.about-button:hover {
+  background-color: #004c9d; 
+}
+
+.aboutme-text{
+  padding-top: 2rem;
+}
+
+.about-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.about-subtitle {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+img {
+  border-radius: 10px;
+  max-width: 100%;
+  height: auto;
+}
+
+.container-about {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+}

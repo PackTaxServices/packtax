@@ -1,0 +1,65 @@
+/* Home.css */
+.home-container {
+  padding: 60px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: black;
+}
+
+.home-title-one {
+  font-size: 2rem;
+  color: #343a40; 
+  margin-bottom: 1rem;
+}
+
+.home-title-two {
+  font-size: 2.5rem;
+  color: #00366f; 
+  margin-bottom: 1rem;
+}
+
+.home-description {
+  font-size: 1.2rem;
+  color: #6c757d; 
+}
+
+.home-button {
+  display: inline-block;
+  background-color: #00366f; 
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.home-button:hover {
+  background-color: #004c9d; 
+}
+
+.reviews-section {
+  background-color: #f8f9fa; 
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+.review-card {
+  background-color: white;
+  border: 1px solid #ddd;
+}
+
+.review-text {
+  font-size: 1rem;
+  font-style: italic;
+  color: #555;
+}
+
+.review-author {
+  font-weight: bold;
+  color: #00366f;
+}
+
+.review-stars {
+  font-size: 1.2rem;
+  color: #00366f; 
+}
