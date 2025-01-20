@@ -2,7 +2,7 @@
   "name": "pack-tax-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://PackTaxServices.github.io/paxtax",
+  "homepage": "https://packtaxservices.github.io/packtax/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
