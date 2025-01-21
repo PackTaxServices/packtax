@@ -36,7 +36,7 @@ function Home() {
             <div className="review-stars mb-2">
                 ★ ★ ★ ★ ★ 
               </div>
-              <p className="review-text">"Pack Financial helped me save so much on taxes. Highly recommend their services!"</p>
+              <p className="review-text">"Pack Tax Services helped me save so much on taxes. Highly recommend their services!"</p>
               <h6 className="review-author text-end">- James Thomas</h6>
             </div>
           </div>
